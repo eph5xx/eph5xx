@@ -1,6 +1,7 @@
 # Hi, I'm Aleksandr 👋
 
-📍 Yerevan, Armenia
+📍 Yerevan, Armenia\
+🌐 [ephx.dev](https://ephx.dev)
 
 I'm building my own projects full-time for now. Still happy to talk about building something together or a good opportunity. DM me on [X](https://x.com/eph5xx) or [LinkedIn](https://www.linkedin.com/in/eph5xx/).
 
@@ -11,7 +12,3 @@ I'm building my own projects full-time for now. Still happy to talk about buildi
 - 🏄 [Surf Skills](https://surfskills.surf) — directory of AI agent skills with video previews
 - ⚖️  [Tiebreaker](https://github.com/eph5xx/tiebreaker) — agent skill that helps agents make well-reasoned decisions
 - 🎙️ [Touchless](https://github.com/eph5xx/touchless) — macOS voice-to-text app, plugin-friendly
-
-## Connect
-
-🌐 [ephx.dev](https://ephx.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/eph5xx/) · 𝕏 [X](https://x.com/eph5xx)
