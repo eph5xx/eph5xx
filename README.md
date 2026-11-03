@@ -12,3 +12,4 @@ I'm building my own projects full-time for now. Still happy to talk about buildi
 - 🏄 [Surf Skills](https://surfskills.surf) — directory of AI agent skills with video previews
 - ⚖️  [Tiebreaker](https://github.com/eph5xx/tiebreaker) — agent skill that helps agents make well-reasoned decisions
 - 🎙️ [Touchless](https://github.com/eph5xx/touchless) — macOS voice-to-text app, plugin-friendly
+- 🔎 [Biviu](https://biviu.com) — web research engine that finds, enriches and ranks any entities (waitlist-only)
